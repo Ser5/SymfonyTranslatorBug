@@ -1,0 +1,6 @@
+{
+	"require": {
+		"symfony/config": "@stable",
+		"symfony/translation": "@stable"
+	}
+}
